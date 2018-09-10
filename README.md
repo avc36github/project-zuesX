@@ -1,2 +1,3 @@
 # project-zuesX
 The Zeus Satellite was an advanced aerial vehicle with a design and function closely resembling that of a modern satellite. Specifically, the Zeus Satellite was designed to be capable of sustained, independently-powered flight with huge massive engines that provided the orbit needed to keep it in space and on track.
+C.O.B.R.A. owned, conquered and relied these massive powerful vehicles as huge highly strategic orbiters form which they could perform a number of effective recconnaissance, stealth deployment or direct strike operations from which they could drop maasive weapons known as Tungsten Rods with the help of gravity to destroy any city or state with a massive bloe
